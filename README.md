@@ -1,2 +1,3 @@
 Nothing but something.
-added second things
+added second things.
+Added the third.
